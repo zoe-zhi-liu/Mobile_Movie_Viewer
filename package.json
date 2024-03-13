@@ -1,0 +1,41 @@
+{
+  "name": "vanmv",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-async-storage/async-storage": "1.18.2",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.13",
+    "buffer": "^6.0.3",
+    "expo": "~49.0.5",
+    "expo-background-fetch": "~11.3.0",
+    "expo-file-system": "~15.4.3",
+    "expo-image-picker": "~14.3.2",
+    "expo-location": "~16.1.0",
+    "expo-notifications": "~0.20.1",
+    "expo-status-bar": "~1.6.0",
+    "fetch-blob": "^4.0.0",
+    "firebase": "^10.1.0",
+    "react": "18.2.0",
+    "react-native": "0.72.3",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-maps": "^1.7.1",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "whatwg-fetch": "^3.6.2",
+    "expo-linear-gradient": "~12.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "react-native-dotenv": "^3.4.9"
+  },
+  "private": true
+}
